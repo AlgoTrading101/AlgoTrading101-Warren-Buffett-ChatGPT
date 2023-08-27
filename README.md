@@ -1,4 +1,4 @@
-# AlgoTrading101 Warren BuffetT ChatGPT
+# AlgoTrading101 Warren Buffett ChatGPT
 
 ## Introduction
 
